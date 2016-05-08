@@ -1,0 +1,23 @@
+{
+  "name": "php-class-exists",
+  "version": "1.0.0",
+  "description": "Clone of PHP's function 'class_exists'",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter list"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/node-yii/php-class-exists"
+  },
+  "keywords": [
+    "php",
+    "class_exists"
+  ],
+  "author": "ua2004 <ua2004@ukr.net>",
+  "license": "WTFPL",
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.4.5"
+  }
+}
